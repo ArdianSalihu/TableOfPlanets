@@ -2,3 +2,9 @@
 ![GitHub](https://img.shields.io/github/license/klein528/TableOfPlanets)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/klein528/TableOfPlanets)
+
+
+
+<h1>Message</h1>
+
+<p>You can find this project on a github repository, but i did it completely on my own just by looking at the finished product, i was learning HTML-tables and this was my biggest project at this time.</p>
